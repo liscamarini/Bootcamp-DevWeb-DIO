@@ -1,6 +1,6 @@
 # HTML WEB DEVELOPER - Digital Innovation One
 
-Esse é o repositório referente a aula de recriação da página do instagram para web.
+Esse é o repositório referente ao bootcamp HTML Web Developer - Clone do Instagram Web e Clone Netflix!
 
 ### Tecnologias utilizadas:
 

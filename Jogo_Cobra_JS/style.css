@@ -1,0 +1,20 @@
+body {
+    width: 95vw;
+    height: 95vh;
+    overflow: hidden;
+    background: rgb(45, 3, 80);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .board {
+    border: 2px solid rgb(156, 238, 148);
+    box-shadow: 0 0 7px rgb(35, 109, 1);
+  }
+  
+  .container {
+    width: 90%;
+    height: 100%;
+    position: absolute;
+  }
